@@ -1,6 +1,10 @@
 # ScoreBoard
 농구와 배구의 점수 전광판 프로그램.
 
+## development environment
++ C++
++ Qt
+
 ## Basketball
 ### 기능
 + 홈팀, 원정팀 점수 증가, 하락(+1,2,3 / -1,2,3)
