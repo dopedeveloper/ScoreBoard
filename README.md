@@ -1,7 +1,7 @@
 # ScoreBoard
 농구와 배구의 점수 전광판 프로그램.
 
-## development environment
+## Development environment
 + C++
 + Qt
 
